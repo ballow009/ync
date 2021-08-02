@@ -1,0 +1,12 @@
+{
+  "server": [
+    {
+      "sname": "Chad",
+      "status": "offline"
+    },
+    {
+      "sname": "Sho",
+      "status": "offline"
+    }
+  ]
+}
